@@ -7,4 +7,3 @@ Dans ce tp nous travailleronts sur les listes chainee plus particulierement sur 
   ## CE SUR QUOI JE TRAVAILLE .
   Dans ce tp il sera question pour moi de travailler sur les liste chainees circulaire specifiquement sur les foncitonnalites :
   - Insertion en tete et en queue  d'une liste.
-  - Suppression en tete et en queue d'une liste .
